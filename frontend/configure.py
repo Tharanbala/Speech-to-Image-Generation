@@ -1,1 +1,1 @@
-api_key="1954508d8770482b83e86f2f992d295c"
+api_key="xxxx" #use your API key from Assembly AI
